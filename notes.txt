@@ -1,0 +1,182 @@
+Smart India Hackathon  
+
+Problem Statement ID	: 
+1356
+
+Problem Statement Title	: 
+Sentiment Analysis of Incoming calls on helpdesk
+
+Description	:
+The problem at hand involves developing a sentiment analysis solution specifically tailored 
+for analyzing the sentiment of incoming calls in helpdesks, call centers, and customer services. 
+With the ever-increasing volume of customer interactions in these domains, 
+it is crucial for businesses to gain insights into the sentiments expressed 
+by their customers during phone conversations. Sentiment analysis refers to 
+the process of automatically determining the sentiment or emotional tone conveyed by
+a text or speech. In the context of incoming calls, sentiment analysis can provide valuable 
+information about customer satisfaction, identify potential issues, and highlight areas 
+for improvement in customer service delivery. 
+
+Application 
+
+Software
+
+
+MOM
+
+22nd sep Internal 
+
+PPT 
+    - Cynddia Balamurugan 
+    - Aakash
+    - Harini
+    - Bagiya
+
+UI Design: 
+    - Shruthi Murugan 
+    - Bagiya 
+
+Workflow chart
+    - Cynddia Balamurugan 
+    - Harini 
+
+Benchmarking of lib 
+    - Shruthi Murugan 
+    - Shruthi Mohan 
+    - Bagiya 
+    
+Abstract    
+    - Harini 
+    - Aakash 
+
+- Use cases 
+    - Shruthi Mohan 
+
+
+
+- Dependencies 
+
+- Abstract  
+- Idea/ Solution 
+- Prototype 
+
+
+- Technology Stack 
+
+
+Audio -> text -> sentiment 
+
+Cynddia's demand 
+
+
+
+
+TO DO:
+1. Read the re paper 
+2. Process Flow 
+3. UI rough 
+4. Use case
+
+
+------------------------------------
+Day02        September 19, Tuesday
+------------------------------------
+
+customer satisfaction
+
+Survey by the agent 
+	- Analyze the emotion better
+
+
+
+Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational
+Emotion Recognition
+
+
+Implementing BERT and CNN-LSTM 
+
+
+
+
+
+Smart India Hackathon  
+
+Problem Statement ID	: 
+1356
+
+Problem Statement Title	: 
+Sentiment Analysis of Incoming calls on helpdesk
+
+Description	:
+The problem at hand involves developing a sentiment analysis solution specifically tailored 
+for analyzing the sentiment of incoming calls in helpdesks, call centers, and customer services. 
+With the ever-increasing volume of customer interactions in these domains, 
+it is crucial for businesses to gain insights into the sentiments expressed 
+by their customers during phone conversations. Sentiment analysis refers to 
+the process of automatically determining the sentiment or emotional tone conveyed by
+a text or speech. In the context of incoming calls, sentiment analysis can provide valuable 
+information about customer satisfaction, identify potential issues, and highlight areas 
+for improvement in customer service delivery. 
+
+Application 
+
+Software
+
+
+MOM
+
+22nd sep Internal 
+
+PPT 
+    - Cynddia Balamurugan 
+    - Aakash
+    - Harini
+    - Bagiya
+
+UI Design: 
+    - Shruthi Murugan 
+    - Bagiya 
+
+Workflow chart
+    - Cynddia Balamurugan 
+    - Harini 
+
+Benchmarking of lib 
+    - Shruthi Murugan 
+    - Shruthi Mohan 
+    - Bagiya 
+    
+Abstract    
+    - Harini 
+    - Aakash 
+
+- Use cases 
+    - Shruthi Mohan 
+
+
+
+- Dependencies 
+
+- Abstract  
+- Idea/ Solution 
+- Prototype 
+
+
+- Technology Stack 
+
+
+Audio -> text -> sentiment 
+
+Cynddia's demand 
+
+
+
+
+TO DO:
+1. Read the re paper 
+2. Process Flow 
+3. UI rough 
+4. Use case
+
+Technology Stack:
+
