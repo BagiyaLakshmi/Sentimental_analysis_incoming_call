@@ -7,3 +7,7 @@
 ## code ref: 
 
 - https://github.com/topics/speech-emotion-recognition
+
+## Proposed Solution  
+
+![Solution-workflow](image1.png)
